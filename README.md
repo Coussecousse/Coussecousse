@@ -1,4 +1,4 @@
-### Welcome to my GitHub Profile!👋
+# Welcome to my GitHub Profile!👋
 
 ## Hi ! I'm Erika and I'm a french student in Web Development and webDesign ! 
 
