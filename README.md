@@ -8,6 +8,10 @@ I received my first computer at the age of 10, and ever since, I knew I wanted t
   <img src="https://github.com/Coussecousse/Coussecousse/blob/main/giphy.gif" alt="Pingouin image"/>
 </p>
 
+
+## 🌐 Portfolio
+<a href="https://erika-s-portfolio-fr.netlify.app/" target="_blank">Click here</a>
+
 ## 🛠️ Skills 
 - HTML/CSS
 - Javascript
@@ -35,4 +39,4 @@ I received my first computer at the age of 10, and ever since, I knew I wanted t
 - English
 
 ## 📧 Contact me ! 
-I'm open to any project if you just want to practice and if it's for an apprenticeship position you can reach me at <a href="mailto:adob.e@hotmail.com">adob.e@hotmail.com</a>
+I'm open to collaborating on practice projects, or for any apprenticeship positions you can reach me at <a href="mailto:adob.e@hotmail.com">adob.e@hotmail.com</a> 😊
