@@ -39,4 +39,4 @@ I received my first computer at the age of 10, and ever since, I knew I wanted t
 - English
 
 ## 📧 Contact me ! 
-I'm open to collaborating on practice projects, or for any apprenticeship positions you can reach me at <a href="mailto:adob.e@hotmail.com">adob.e@hotmail.com</a> 😊
+I'm open to collaborating on practice projects or for any apprenticeship positions ! You can reach me at <a href="mailto:adob.e@hotmail.com">adob.e@hotmail.com</a> 😊
