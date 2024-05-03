@@ -16,10 +16,12 @@ I received my first computer at the age of 10, and ever since, I knew I wanted t
 - HTML/CSS
 - Javascript
 - ReactJS
+- TypeScript
 - SASS, Bootstrap & Tailwind
 - PHP
-- SQL
 - Symfony
+- Elgg
+- SQL
 - Figma
 - Photoshop
 
@@ -28,10 +30,8 @@ I received my first computer at the age of 10, and ever since, I knew I wanted t
 
 ## 🎯 Next 
 - UI / UX Courses
-- Photoshop, Illustrator & inDesign
-
+  
 ## ⭐️ One day...
-- TypeScript
 - Three.js
 
 ## 🌍 Languages
