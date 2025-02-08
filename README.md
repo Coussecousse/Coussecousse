@@ -1,6 +1,16 @@
-### Hi ! I'm Erika and I'm a french student in Web Development👋
+### Hi ! I'm Kika and I'm a french student in Web Development👋
 
-I received my first computer at the age of 10, and ever since, I knew I wanted to work in the field of new technologies. Over time and through various experiences, I decided to focus on developing my skills in web development. After a year of learning full-stack technologies, I furthered my journey by enrolling in a training program at the 3W Academy to become a web developer. 🎓
+
+**Recipe for a Kika:**
+- Add creativity 
+- Crazy ideas 
+- Project ideas to make my friends laugh and help them in everyday life 
+- A stubborn and lonely side
+- And a great future
+
+And you have a Kika ! 🐈‍⬛
+
+After 2 years of learning full-stack technologies, I furthered my journey by doing a master's degree to become an expert in Information Systems. 🎓
 
 🚀 I'm actually doing my apprenticeship at Linagora ! 
 
@@ -26,7 +36,7 @@ I received my first computer at the age of 10, and ever since, I knew I wanted t
 - Photoshop
 
 ## 🧠 Currently learning 
-- NodeJS
+- Python++
 
 ## 🎯 Next 
 - UI / UX Courses
